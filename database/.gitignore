@@ -1,0 +1,12 @@
+config
+tests
+vendor
+storage
+logs
+.env
+.env.local
+.env.example
+.env.test
+.env.development
+
+
