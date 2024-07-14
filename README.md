@@ -10,7 +10,6 @@
 - **Product Catalog**: Browse through a variety of products categorized for ease of access.
 - **Shopping Cart**: Add and manage products in your cart with a smooth interface.
 - **Favorites**: Save your favorite items for later viewing.
-- **User Authentication**: Secure login and registration system.
 - **Order Management**: Users can view and manage their orders.
 
 ## Technologies Used
